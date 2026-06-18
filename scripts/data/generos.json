@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Ficção Científica",
+    "descricao": "Filmes baseados em ciência e tecnologia futurista"
+  },
+  {
+    "nome": "Drama",
+    "descricao": "Narrativas emocionais focadas em personagens e conflitos humanos"
+  },
+  {
+    "nome": "Ação",
+    "descricao": "Filmes com sequências de luta, perseguição e explosões"
+  },
+  {
+    "nome": "Terror",
+    "descricao": "Filmes projetados para assustar e criar tensão no espectador"
+  },
+  {
+    "nome": "Comédia",
+    "descricao": "Filmes com foco em humor e situações engraçadas"
+  },
+  {
+    "nome": "Thriller",
+    "descricao": "Filmes de suspense com tensão psicológica elevada"
+  },
+  {
+    "nome": "Animação",
+    "descricao": "Filmes produzidos com técnicas de animação 2D ou 3D"
+  }
+]

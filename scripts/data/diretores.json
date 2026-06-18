@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Christopher Nolan",
+    "nacionalidade": "Britânico-americano",
+    "nascimento": 1970
+  },
+  {
+    "nome": "Martin Scorsese",
+    "nacionalidade": "Americano",
+    "nascimento": 1942
+  },
+  {
+    "nome": "Quentin Tarantino",
+    "nacionalidade": "Americano",
+    "nascimento": 1963
+  },
+  {
+    "nome": "Steven Spielberg",
+    "nacionalidade": "Americano",
+    "nascimento": 1946
+  },
+  {
+    "nome": "Denis Villeneuve",
+    "nacionalidade": "Canadense",
+    "nascimento": 1967
+  },
+  {
+    "nome": "Ridley Scott",
+    "nacionalidade": "Britânico",
+    "nascimento": 1937
+  },
+  {
+    "nome": "James Cameron",
+    "nacionalidade": "Canadense",
+    "nascimento": 1954
+  },
+  {
+    "nome": "David Fincher",
+    "nacionalidade": "Americano",
+    "nascimento": 1962
+  },
+  {
+    "nome": "Peter Jackson",
+    "nacionalidade": "Neozelandês",
+    "nascimento": 1961
+  },
+  {
+    "nome": "Francis Ford Coppola",
+    "nacionalidade": "Americano",
+    "nascimento": 1939
+  }
+]

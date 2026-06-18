@@ -1,0 +1,266 @@
+[
+  {
+    "titulo": "Interestelar",
+    "ano": 2014,
+    "duracao_min": 169,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica",
+    "sinopse": "Um grupo de astronautas viaja por um buraco de minhoca em busca de um novo lar para a humanidade."
+  },
+  {
+    "titulo": "A Origem",
+    "ano": 2010,
+    "duracao_min": 148,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica",
+    "sinopse": "Um ladrão especializado em roubar segredos do subconsciente recebe a missão de plantar uma ideia na mente de alguém."
+  },
+  {
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "ano": 2008,
+    "duracao_min": 152,
+    "diretor": "Christopher Nolan",
+    "genero": "Ação",
+    "sinopse": "Batman enfrenta o Coringa, um criminoso que semeia o caos em Gotham City."
+  },
+  {
+    "titulo": "Oppenheimer",
+    "ano": 2023,
+    "duracao_min": 180,
+    "diretor": "Christopher Nolan",
+    "genero": "Drama",
+    "sinopse": "A história do físico J. Robert Oppenheimer e o desenvolvimento da bomba atômica."
+  },
+  {
+    "titulo": "Tenet",
+    "ano": 2020,
+    "duracao_min": 150,
+    "diretor": "Christopher Nolan",
+    "genero": "Ação",
+    "sinopse": "Um agente secreto manipula o fluxo do tempo para evitar a Terceira Guerra Mundial."
+  },
+  {
+    "titulo": "O Poderoso Chefão",
+    "ano": 1972,
+    "duracao_min": 175,
+    "diretor": "Francis Ford Coppola",
+    "genero": "Drama",
+    "sinopse": "A saga de uma família da máfia italiana nos Estados Unidos."
+  },
+  {
+    "titulo": "O Poderoso Chefão II",
+    "ano": 1974,
+    "duracao_min": 202,
+    "diretor": "Francis Ford Coppola",
+    "genero": "Drama",
+    "sinopse": "A continuação da saga da família Corleone, explorando origens e consequências do poder."
+  },
+  {
+    "titulo": "Apocalypse Now",
+    "ano": 1979,
+    "duracao_min": 153,
+    "diretor": "Francis Ford Coppola",
+    "genero": "Drama",
+    "sinopse": "Um capitão do exército americano é enviado ao Vietnã para eliminar um coronel renegado."
+  },
+  {
+    "titulo": "Taxi Driver",
+    "ano": 1976,
+    "duracao_min": 114,
+    "diretor": "Martin Scorsese",
+    "genero": "Drama",
+    "sinopse": "Um motorista de táxi perturbado decide limpar as ruas de Nova York."
+  },
+  {
+    "titulo": "Os Bons Companheiros",
+    "ano": 1990,
+    "duracao_min": 146,
+    "diretor": "Martin Scorsese",
+    "genero": "Drama",
+    "sinopse": "A ascensão e queda de um jovem que entra no mundo do crime organizado."
+  },
+  {
+    "titulo": "O Lobo de Wall Street",
+    "ano": 2013,
+    "duracao_min": 180,
+    "diretor": "Martin Scorsese",
+    "genero": "Drama",
+    "sinopse": "A história real de Jordan Belfort, um corretor da bolsa envolvido em corrupção."
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "ano": 1994,
+    "duracao_min": 154,
+    "diretor": "Quentin Tarantino",
+    "genero": "Thriller",
+    "sinopse": "Histórias entrelaçadas de criminosos, um boxeador e um par de assaltantes em Los Angeles."
+  },
+  {
+    "titulo": "Kill Bill: Volume 1",
+    "ano": 2003,
+    "duracao_min": 111,
+    "diretor": "Quentin Tarantino",
+    "genero": "Ação",
+    "sinopse": "Uma assassina busca vingança contra seus ex-colegas que tentaram matá-la."
+  },
+  {
+    "titulo": "Django Livre",
+    "ano": 2012,
+    "duracao_min": 165,
+    "diretor": "Quentin Tarantino",
+    "genero": "Ação",
+    "sinopse": "Um escravo liberto se torna caçador de recompensas e resgata sua esposa."
+  },
+  {
+    "titulo": "E.T. o Extraterrestre",
+    "ano": 1982,
+    "duracao_min": 115,
+    "diretor": "Steven Spielberg",
+    "genero": "Ficção Científica",
+    "sinopse": "Um menino faz amizade com um alienígena que ficou preso na Terra."
+  },
+  {
+    "titulo": "Indiana Jones e os Caçadores da Arca Perdida",
+    "ano": 1981,
+    "duracao_min": 115,
+    "diretor": "Steven Spielberg",
+    "genero": "Ação",
+    "sinopse": "Um arqueólogo aventureiro busca a Arca da Aliança antes dos nazistas."
+  },
+  {
+    "titulo": "Lista de Schindler",
+    "ano": 1993,
+    "duracao_min": 195,
+    "diretor": "Steven Spielberg",
+    "genero": "Drama",
+    "sinopse": "A história real de Oskar Schindler, que salvou mais de mil judeus durante o Holocausto."
+  },
+  {
+    "titulo": "Duna",
+    "ano": 2021,
+    "duracao_min": 155,
+    "diretor": "Denis Villeneuve",
+    "genero": "Ficção Científica",
+    "sinopse": "Um jovem nobre viaja ao planeta mais perigoso do universo para garantir o futuro de sua família."
+  },
+  {
+    "titulo": "Duna: Parte 2",
+    "ano": 2024,
+    "duracao_min": 166,
+    "diretor": "Denis Villeneuve",
+    "genero": "Ficção Científica",
+    "sinopse": "Paul Atreides se une aos Fremen para vingar sua família e moldar o futuro de Arrakis."
+  },
+  {
+    "titulo": "Blade Runner 2049",
+    "ano": 2017,
+    "duracao_min": 164,
+    "diretor": "Denis Villeneuve",
+    "genero": "Ficção Científica",
+    "sinopse": "Um agente blade runner descobre um segredo que pode mergulhar o mundo no caos."
+  },
+  {
+    "titulo": "Chegada",
+    "ano": 2016,
+    "duracao_min": 116,
+    "diretor": "Denis Villeneuve",
+    "genero": "Ficção Científica",
+    "sinopse": "Uma linguista é recrutada para se comunicar com alienígenas que chegaram à Terra."
+  },
+  {
+    "titulo": "Gladiador",
+    "ano": 2000,
+    "duracao_min": 155,
+    "diretor": "Ridley Scott",
+    "genero": "Ação",
+    "sinopse": "Um general romano traído busca vingança como gladiador no Coliseu."
+  },
+  {
+    "titulo": "Alien: O Oitavo Passageiro",
+    "ano": 1979,
+    "duracao_min": 117,
+    "diretor": "Ridley Scott",
+    "genero": "Terror",
+    "sinopse": "A tripulação de uma nave espacial enfrenta uma criatura alienígena letal."
+  },
+  {
+    "titulo": "Avatar",
+    "ano": 2009,
+    "duracao_min": 162,
+    "diretor": "James Cameron",
+    "genero": "Ficção Científica",
+    "sinopse": "Um soldado paralítico viaja a Pandora e se une aos nativos Na'vi contra a exploração humana."
+  },
+  {
+    "titulo": "Titanic",
+    "ano": 1997,
+    "duracao_min": 194,
+    "diretor": "James Cameron",
+    "genero": "Drama",
+    "sinopse": "Uma história de amor a bordo do fatídico navio RMS Titanic."
+  },
+  {
+    "titulo": "Clube da Luta",
+    "ano": 1999,
+    "duracao_min": 139,
+    "diretor": "David Fincher",
+    "genero": "Thriller",
+    "sinopse": "Um insone e um vendedor de sabão fundam um clube de luta clandestino."
+  },
+  {
+    "titulo": "Garota Exemplar",
+    "ano": 2014,
+    "duracao_min": 149,
+    "diretor": "David Fincher",
+    "genero": "Thriller",
+    "sinopse": "Um homem se torna o principal suspeito do desaparecimento de sua esposa."
+  },
+  {
+    "titulo": "Zodíaco",
+    "ano": 2007,
+    "duracao_min": 157,
+    "diretor": "David Fincher",
+    "genero": "Thriller",
+    "sinopse": "Investigadores e jornalistas buscam o assassino em série Zodíaco na São Francisco dos anos 70."
+  },
+  {
+    "titulo": "Coringa",
+    "ano": 2019,
+    "duracao_min": 122,
+    "diretor": "David Fincher",
+    "genero": "Drama",
+    "sinopse": "A origem do icônico vilão da DC Comics em um drama sombrio sobre saúde mental."
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "duracao_min": 178,
+    "diretor": "Peter Jackson",
+    "genero": "Ação",
+    "sinopse": "Um hobbit parte em uma jornada para destruir um anel mágico com poder sobre o mundo."
+  },
+  {
+    "titulo": "O Senhor dos Anéis: As Duas Torres",
+    "ano": 2002,
+    "duracao_min": 179,
+    "diretor": "Peter Jackson",
+    "genero": "Ação",
+    "sinopse": "A Sociedade do Anel se separa enquanto a guerra pelo Anel continua."
+  },
+  {
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano": 2003,
+    "duracao_min": 201,
+    "diretor": "Peter Jackson",
+    "genero": "Ação",
+    "sinopse": "A batalha final pelo destino da Terra Média."
+  },
+  {
+    "titulo": "Parasita",
+    "ano": 2019,
+    "duracao_min": 132,
+    "diretor": "Martin Scorsese",
+    "genero": "Thriller",
+    "sinopse": "Uma família pobre se infiltra na vida de uma família rica com consequências inesperadas."
+  }
+]
