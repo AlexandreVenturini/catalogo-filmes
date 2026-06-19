@@ -1,0 +1,14 @@
+const { Router } = require('express');
+const controller = require('../controllers/diretor.controller');
+
+const router = Router();
+
+router.post('/', controller.criar);
+router.post('/lote', controller.criarVarios);
+router.get('/', controller.buscarTodos);
+router.get('/:id', controller.buscarPorId);
+router.patch('/:id', controller.atualizar);
+router.delete('/filtro', controller.removerComFiltro);
+router.delete('/:id', controller.removerPorId);
+
+module.exports = router;
